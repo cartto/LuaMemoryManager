@@ -3,6 +3,11 @@
 local mem = require("mem"); -- get the memory library
 ```
 
+# To run a lua script open a terminal and run
+```bat
+clua.exe --build script.lua
+```
+
 # Functions And Use
 ```lua
 <tbl> Memory <- Library
